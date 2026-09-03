@@ -2,4 +2,4 @@ new file for git
 
 welcome
 hi
-hello 
+hi my name is kadir
